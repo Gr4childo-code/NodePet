@@ -1,0 +1,3 @@
+CMD - D:\MongoDB\bin\mongod.exe --dpath="d:\data\db"
+start - mogoosh
+start mongodb compas
